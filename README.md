@@ -4,9 +4,8 @@
 
 _Este es un script para la administracion de Cuentas SSH sucesor de VPS-MX_
 
--SSH
-
--SSL
+-SSH                   
+-SSL                            
 
 -DROPBEAR
 
