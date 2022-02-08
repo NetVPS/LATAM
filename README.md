@@ -1,14 +1,14 @@
-💻 𝙎 𝘾 𝙍 𝙄 𝙋 𝙏 | 𝙇 𝘼 𝙏 𝘼 𝙈 💻  v 1.0
+#💻 𝙎 𝘾 𝙍 𝙄 𝙋 𝙏 | 𝙇 𝘼 𝙏 𝘼 𝙈 💻  v 1.0
 
-**Script Manager de VPS**   
+##**Script Manager de VPS**   
 _Este es un script para la administracion de Cuentas SSH sucesor de VPS-MX_
 
-**PROTOCOLOS**
+##**PROTOCOLOS**
 _▫️SSH/SSL/DROPBEAR/OPENVPN/SHADOWSOCK/SHADOWSOCK-liv/SHADOWSOCKR(PERSONAL)/V2RAY (PERSONAL)/GETTUNEL/SLOWDNS_   
 _PROXYS_   
 _(PYTHON-PUB,PYTHON-SEG,PYTHON-DIR(WEBSOKET EDIT ESTATUS),TCP OVER,SQUID)_   
 
-**MONITOREO DE:**   
+##**MONITOREO DE:**   
 ▫️USUARIOS SSH/DROPBEAR/SSL/OPENVPN   
 ▫️TIEMPO  
 ▫️EXPIRACION  
