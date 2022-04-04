@@ -64,8 +64,5 @@ apt install at -y &>/dev/null
 wget -O /bin/rebootnb https://www.dropbox.com/s/8thnqvw2ljvjelw/rebootnb.sh &>/dev/null
 chmod +x /bin/rebootnb
 
-echo "/etc/SCRIPT-LATAM/menu.sh" >/usr/bin/menu && chmod +x /usr/bin/menu
-echo "/etc/SCRIPT-LATAM/menu.sh" >/usr/bin/MENU && chmod +x /usr/bin/MENU
-
 echo -e "\e[1;93m————————————————————————————————————————————————————"
 exit
