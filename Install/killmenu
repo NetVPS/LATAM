@@ -1,0 +1,4 @@
+#!/bin/bash
+sleep 2s
+kill -9 $(ps aux | grep -v grep | grep -w "menu.sh" | grep '' | awk '{print $2}')
+kill -9 $(ps aux | grep -v grep | grep -w "menu.sh" | grep '' | awk '{print $2}')
